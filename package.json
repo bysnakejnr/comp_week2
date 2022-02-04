@@ -1,0 +1,22 @@
+{
+  "name": "comp229week2",
+  "version": "1.0.0",
+  "description": "demo for week2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bysnakejnr/comp_week2.git"
+  },
+  "author": "Baris - 301219732",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bysnakejnr/comp_week2/issues"
+  },
+  "homepage": "https://github.com/bysnakejnr/comp_week2#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
